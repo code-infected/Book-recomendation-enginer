@@ -1,6 +1,3 @@
-Here's a `readme.md` file for your project:
-
-```markdown
 # Book Recommendation Algorithm using K-Nearest Neighbors
 
 This project aims to develop a book recommendation algorithm using K-Nearest Neighbors (KNN) and the Book-Crossings dataset. KNN is a simple yet powerful algorithm for classification and regression tasks.
