@@ -56,10 +56,3 @@ The Book-Crossings dataset is used in this project, consisting of book ratings b
 
 This project is part of a challenge and utilizes resources provided by FreeCodeCamp.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-
-You can save this content in a file named `readme.md` in your project directory. Adjustments might be needed based on your project structure and requirements.
